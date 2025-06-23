@@ -12,7 +12,7 @@ export const Contact = () => (
         </h2>
         <div className="w-24 h-1 bg-gradient-to-r from-blue-500 to-purple-500 mx-auto mb-6"></div>
         <p className="text-lg text-gray-600 dark:text-gray-300 max-w-2xl mx-auto leading-relaxed">
-          Have a project in mind or just want to chat? I'd love to hear from
+          Have a project in mind OR just want to chat? I'd love to hear from
           you. Let's create something amazing together!
         </p>
       </div>
